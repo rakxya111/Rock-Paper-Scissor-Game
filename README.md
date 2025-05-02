@@ -4,10 +4,9 @@ A simple and fun **Rock, Paper, Scissors** game built using **HTML, CSS, and Jav
 
 ## 🌟 Features
 
-- Interactive UI with smooth animations
+- Interactive UI 
 - Play against the computer
 - Score tracking for both player and computer
-- Responsive design (works on desktop and mobile)
 
 ## 📸 Screenshots
 
