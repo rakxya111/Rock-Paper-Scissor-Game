@@ -13,6 +13,7 @@ A simple and fun **Rock, Paper, Scissors** game built using **HTML, CSS, and Jav
 
 ![Game Screenshot](screenshot.png)
 
+
 ## 🚀 How to Run
 
 1. Clone this repository or download the ZIP file:
